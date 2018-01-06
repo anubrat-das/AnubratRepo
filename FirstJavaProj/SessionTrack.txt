@@ -1,0 +1,7 @@
+#	Date	Duration		TotalHours	Contents Covered
+1	26/12	12-1pm			1			Java settings
+2	02/12	9:30-10:30am	2			Git settings
+3.	03/12	9:30-10:30am	3			Datatypes, Methods, Class and Objects
+4.	03/12	10:45-11:45am	4			Constructor, String, Arrays
+5.	09/12	10:30-11:30am	5			Operators
+6.	06/01	9:30-10:30am	6			Flow control and Modifiers

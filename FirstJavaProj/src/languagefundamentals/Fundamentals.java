@@ -23,6 +23,11 @@ public class Fundamentals {
 		//int r = add(6, 6);
 		System.out.println("The summation is "+add(6, 6));
 		
+		Flat f1 = new Flat("Anubrat", 34000.00, 5);
+		System.out.println(f1.owner);
+		System.out.println(f1.rent);
+		//System.out.println(f1.member);
+		
 	}
 	
 	public static int add(int a, int b){

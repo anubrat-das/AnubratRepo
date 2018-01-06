@@ -1,9 +1,9 @@
 package languagefundamentals;
 
 public class Flat {
-	String owner;
+	public String owner;
 	double rent;
-	int member;
+	private int member;
 	
 	public Flat(String owner, double rent, int member){
 		this.owner = owner;
