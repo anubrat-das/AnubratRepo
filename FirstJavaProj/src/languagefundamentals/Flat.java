@@ -2,8 +2,8 @@ package languagefundamentals;
 
 public class Flat {
 	public String owner;
-	double rent;
-	private int member;
+	public double rent;
+	public int member;
 	
 	public Flat(String owner, double rent, int member){
 		this.owner = owner;

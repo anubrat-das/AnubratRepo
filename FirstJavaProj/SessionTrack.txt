@@ -5,4 +5,5 @@
 4.	03/12	10:45-11:45am	4			Constructor, String, Arrays
 5.	09/12	10:30-11:30am	5			Operators
 6.	06/01	9:30-10:30am	6			Flow control and Modifiers
-7.	07/01	9:30-11:30am	8			Oops concepts			
+7.	07/01	9:30-11:30am	8			Oops concepts
+8.	13/01	10:30-11:30am	9			Collection started
