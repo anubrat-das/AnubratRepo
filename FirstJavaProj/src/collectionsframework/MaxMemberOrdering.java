@@ -8,7 +8,11 @@ public class MaxMemberOrdering implements Comparator<Flat>{
 
 	@Override
 	public int compare(Flat o1, Flat o2) {
-		return o1.member - o2.member;
+		int diff = o2.member-o1.member;
+		if(diff == 0){
+			diff = o1.owner.compareTo(o2.owner);
+		}
+		return diff;
 	}
 
 }
