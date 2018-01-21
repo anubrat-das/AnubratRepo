@@ -8,3 +8,5 @@
 7.	07/01	9:30-11:30am	8			Oops concepts
 8.	13/01	10:30-11:30am	9			Collection started
 9	14/01	9:30-11:30am	11			Collection and Exception Handling
+10.	20/01	10:30-11:30am	12			Reading and manipulating text files
+11	21/01	9:30-11:30		14			Connecting to datbase and reading from excel
